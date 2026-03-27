@@ -1,11 +1,11 @@
 # Bangladesh Child Mortality Prediction
 
-Predicts child mortality rate in Bangladesh using socioeconomic 
+Predicts the child mortality rate in Bangladesh using socioeconomic 
 indicator data from the World Bank, comparing a classical 
 regression baseline with a machine learning approach.
 
 ## Data
-World Bank Open Data — Bangladesh country indicators  
+World Bank Open Data - Bangladesh country indicators  
 Source: https://data.worldbank.org/country/BD
 
 ## Tools
